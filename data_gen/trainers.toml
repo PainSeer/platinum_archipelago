@@ -4461,7 +4461,7 @@ party = [
     { species = "geodude", level = 21, num_moves = 0 },
     { species = "bronzor", level = 23, num_moves = 0 },
 ]
-label = "Solaceon Ruins - Ruin Maniac Karl"
+label = "Solaceon Ruins B2F - Ruin Maniac Karl"
 
 [bird_keeper_audrey]
 id = 554
