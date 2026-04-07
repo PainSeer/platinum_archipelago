@@ -2028,7 +2028,7 @@ original_item = "fire_stone"
 type = "hidden"
 table = "hidden"
 check = 766
-label = "Solaceon Ruins B1F - Hidden Item Down Top Left Staircase"
+label = "Solaceon Ruins 1F - Hidden Item Down Top Left Staircase"
 id = 36
 
 [route_209_lost_tower_4f_tm27]
@@ -4326,7 +4326,7 @@ original_item = "water_stone"
 type = "hidden"
 table = "hidden"
 check = 767
-label = "Solaceon Ruins B3F - Hidden Item Down Bottom Left Staircase"
+label = "Solaceon Ruins B2F - Hidden Item Down Bottom Left Staircase"
 id = 37
 
 [lake_valor_tm25]
@@ -4470,7 +4470,7 @@ original_item = "thunderstone"
 type = "hidden"
 table = "hidden"
 check = 768
-label = "Solaceon Ruins B5F - Hidden Item Down Bottom Right Staircase"
+label = "Solaceon Ruins B4F - Hidden Item Down Bottom Right Staircase"
 id = 38
 
 [mt_coronet_5f_full_restore]
@@ -4558,7 +4558,7 @@ original_item = "mind_plate"
 type = "overworld"
 table = "overworld"
 check = 1109
-label = "Solaceon Ruins B5F - FRIENDSHIP Room Bottom Left Item"
+label = "Solaceon Ruins Final Room - FRIENDSHIP Room Bottom Left Item"
 id = 95
 
 [solaceon_ruins_room_7_odd_incense]
@@ -4566,7 +4566,7 @@ original_item = "odd_incense"
 type = "overworld"
 table = "overworld"
 check = 1110
-label = "Solaceon Ruins B5F - FRIENDSHIP Room Bottom Right Item"
+label = "Solaceon Ruins Final Room - FRIENDSHIP Room Bottom Right Item"
 id = 96
 
 [solaceon_ruins_room_7_nugget]
@@ -4574,7 +4574,7 @@ original_item = "nugget"
 type = "overworld"
 table = "overworld"
 check = 1111
-label = "Solaceon Ruins B5F - FRIENDSHIP Room Top Left Item"
+label = "Solaceon Ruins Final Room - FRIENDSHIP Room Top Left Item"
 id = 97
 
 [solaceon_ruins_room_7_hm05]
@@ -4582,7 +4582,7 @@ original_item = "hm05"
 type = "hm"
 table = "overworld"
 check = 1112
-label = "Solaceon Ruins B5F - FRIENDSHIP Room Top Right Item"
+label = "Solaceon Ruins Final Room - FRIENDSHIP Room Top Right Item"
 id = 98
 
 [oreburgh_city_gym_coal_badge]
@@ -5218,7 +5218,7 @@ check = 210
 original_item = "green_shard"
 type = "npc_gift"
 table = "base"
-label = "Solaceon Ruins B2F - Gift for Lending Defog to Hiker"
+label = "Solaceon Ruins B1F - Gift for Lending Defog to Hiker"
 
 [solaceon_town_east_house_seal_case]
 id = 76
@@ -5504,7 +5504,7 @@ check = 2943
 original_item = "uunown"
 type = "uunown"
 table = "hidden"
-label = "Solaceon Ruins - Unown File A"
+label = "Solaceon Ruins 1F - Unown File A"
 
 [uunown_b]
 id = 285
@@ -5512,7 +5512,7 @@ check = 2944
 original_item = "uunown"
 type = "uunown"
 table = "hidden"
-label = "Solaceon Ruins - Unown File B"
+label = "Solaceon Ruins 1F - Unown File B"
 
 [uunown_c]
 id = 286
@@ -5520,7 +5520,7 @@ check = 2945
 original_item = "uunown"
 type = "uunown"
 table = "hidden"
-label = "Solaceon Ruins - Unown File C"
+label = "Solaceon Ruins 1F - Unown File C"
 
 [uunown_d]
 id = 287
@@ -5528,7 +5528,7 @@ check = 2946
 original_item = "uunown"
 type = "uunown"
 table = "hidden"
-label = "Solaceon Ruins - Unown File D"
+label = "Solaceon Ruins 1F - Unown File D"
 
 [uunown_e]
 id = 288
@@ -5536,7 +5536,7 @@ check = 2947
 original_item = "uunown"
 type = "uunown"
 table = "hidden"
-label = "Solaceon Ruins - Unown File E"
+label = "Solaceon Ruins B1F - Unown File E"
 
 [uunown_f]
 id = 289
@@ -5544,7 +5544,7 @@ check = 2948
 original_item = "uunown"
 type = "uunown"
 table = "hidden"
-label = "Solaceon Ruins - Unown File F"
+label = "Solaceon Ruins B1F - Unown File F"
 
 [uunown_g]
 id = 290
@@ -5552,7 +5552,7 @@ check = 2949
 original_item = "uunown"
 type = "uunown"
 table = "hidden"
-label = "Solaceon Ruins - Unown File G"
+label = "Solaceon Ruins B1F - Unown File G"
 
 [uunown_h]
 id = 291
@@ -5560,7 +5560,7 @@ check = 2950
 original_item = "uunown"
 type = "uunown"
 table = "hidden"
-label = "Solaceon Ruins - Unown File H"
+label = "Solaceon Ruins B1F - Unown File H"
 
 [uunown_i]
 id = 292
@@ -5568,7 +5568,7 @@ check = 2951
 original_item = "uunown"
 type = "uunown"
 table = "hidden"
-label = "Solaceon Ruins - Unown File I"
+label = "Solaceon Ruins B2F - Unown File I"
 
 [uunown_j]
 id = 293
@@ -5576,7 +5576,7 @@ check = 2952
 original_item = "uunown"
 type = "uunown"
 table = "hidden"
-label = "Solaceon Ruins - Unown File J"
+label = "Solaceon Ruins B2F - Unown File J"
 
 [uunown_k]
 id = 294
@@ -5584,7 +5584,7 @@ check = 2953
 original_item = "uunown"
 type = "uunown"
 table = "hidden"
-label = "Solaceon Ruins - Unown File K"
+label = "Solaceon Ruins B2F - Unown File K"
 
 [uunown_l]
 id = 295
@@ -5592,7 +5592,7 @@ check = 2954
 original_item = "uunown"
 type = "uunown"
 table = "hidden"
-label = "Solaceon Ruins - Unown File L"
+label = "Solaceon Ruins B2F - Unown File L"
 
 [uunown_m]
 id = 296
@@ -5600,7 +5600,7 @@ check = 2955
 original_item = "uunown"
 type = "uunown"
 table = "hidden"
-label = "Solaceon Ruins - Unown File M"
+label = "Solaceon Ruins B3F Right - Unown File M"
 
 [uunown_n]
 id = 297
@@ -5608,7 +5608,7 @@ check = 2956
 original_item = "uunown"
 type = "uunown"
 table = "hidden"
-label = "Solaceon Ruins - Unown File N"
+label = "Solaceon Ruins B3F Right - Unown File N"
 
 [uunown_o]
 id = 298
@@ -5616,7 +5616,7 @@ check = 2957
 original_item = "uunown"
 type = "uunown"
 table = "hidden"
-label = "Solaceon Ruins - Unown File O"
+label = "Solaceon Ruins B4F - Unown File O"
 
 [uunown_p]
 id = 299
@@ -5624,7 +5624,7 @@ check = 2958
 original_item = "uunown"
 type = "uunown"
 table = "hidden"
-label = "Solaceon Ruins - Unown File P"
+label = "Solaceon Ruins B4F - Unown File P"
 
 [uunown_q]
 id = 300
@@ -5632,7 +5632,7 @@ check = 2959
 original_item = "uunown"
 type = "uunown"
 table = "hidden"
-label = "Solaceon Ruins - Unown File Q"
+label = "Solaceon Ruins B4F - Unown File Q"
 
 [uunown_r]
 id = 301
@@ -5640,7 +5640,7 @@ check = 2960
 original_item = "uunown"
 type = "uunown"
 table = "hidden"
-label = "Solaceon Ruins - Unown File R"
+label = "Solaceon Ruins B4F - Unown File R"
 
 [uunown_s]
 id = 302
@@ -5648,7 +5648,7 @@ check = 2961
 original_item = "uunown"
 type = "uunown"
 table = "hidden"
-label = "Solaceon Ruins - Unown File S"
+label = "Solaceon Ruins B3F Left - Unown File S"
 
 [uunown_t]
 id = 303
@@ -5656,7 +5656,7 @@ check = 2962
 original_item = "uunown"
 type = "uunown"
 table = "hidden"
-label = "Solaceon Ruins - Unown File T"
+label = "Solaceon Ruins B3F Left - Unown File T"
 
 [uunown_u]
 id = 304
@@ -5664,7 +5664,7 @@ check = 2963
 original_item = "uunown"
 type = "uunown"
 table = "hidden"
-label = "Solaceon Ruins - Unown File U"
+label = "Solaceon Ruins B4F - Unown File U"
 
 [uunown_v]
 id = 305
@@ -5672,7 +5672,7 @@ check = 2964
 original_item = "uunown"
 type = "uunown"
 table = "hidden"
-label = "Solaceon Ruins - Unown File V"
+label = "Solaceon Ruins B3F Left - Unown File V"
 
 [uunown_w]
 id = 306
@@ -5680,7 +5680,7 @@ check = 2965
 original_item = "uunown"
 type = "uunown"
 table = "hidden"
-label = "Solaceon Ruins - Unown File W"
+label = "Solaceon Ruins B4F - Unown File W"
 
 [uunown_x]
 id = 307
@@ -5688,7 +5688,7 @@ check = 2966
 original_item = "uunown"
 type = "uunown"
 table = "hidden"
-label = "Solaceon Ruins - Unown File X"
+label = "Solaceon Ruins B3F Right - Unown File X"
 
 [uunown_y]
 id = 308
@@ -5696,7 +5696,7 @@ check = 2967
 original_item = "uunown"
 type = "uunown"
 table = "hidden"
-label = "Solaceon Ruins - Unown File Y"
+label = "Solaceon Ruins B2F - Unown File Y"
 
 [uunown_z]
 id = 309
@@ -5704,7 +5704,7 @@ check = 2968
 original_item = "uunown"
 type = "uunown"
 table = "hidden"
-label = "Solaceon Ruins - Unown File Z"
+label = "Solaceon Ruins B1F - Unown File Z"
 
 [uunown_ex]
 id = 310
@@ -5712,7 +5712,7 @@ check = 2969
 original_item = "uunown"
 type = "uunown"
 table = "hidden"
-label = "Solaceon Ruins - Unown File !"
+label = "Solaceon Ruins 2F - Unown File !"
 
 [uunown_qu]
 id = 311
@@ -5720,7 +5720,7 @@ check = 2970
 original_item = "uunown"
 type = "uunown"
 table = "hidden"
-label = "Solaceon Ruins - Unown File ?"
+label = "Solaceon Ruins 2F - Unown File ?"
 
 [fight_area_mart_scope_lens]
 id = 109
